@@ -3,7 +3,7 @@ import FeatureTitle from "../FeatureTitle";
 import ItemInterface from "./ItemInterface";
 import One from "./One";
 import Image from "next/image";
-import InterfacePic from "@/public/features/interface.png";
+import InterfacePic from "@/public/features/Interface.png";
 import Three from "./Three";
 import Two from "./Two";
 

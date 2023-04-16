@@ -5,7 +5,7 @@ import PlayButton from "./PlayButton";
 export default function SectionHero() {
   return (
     <section id="Hero">
-      <div className="ml-10 mt-[192px] w-5/12">
+      <div className="ml-10 mt-[312px] w-5/12">
         <h1 className="text-dark-blue text-[54px] font-bold">
           <span className="text-primary">Studying</span> Online is now much
           easier
